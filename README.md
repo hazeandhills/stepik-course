@@ -1,2 +1,2 @@
 # stepik-course
-auto-tests
+auto tests
